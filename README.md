@@ -1,0 +1,2 @@
+# rosalind challenges
+ exploring bioinformatics
