@@ -10,3 +10,5 @@ d = int(input('D'))
 
 
 print(f"{words[a:b + 1]} {words[c:d + 1]}")
+
+
